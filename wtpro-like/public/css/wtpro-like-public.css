@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.button-like {
+    cursor: pointer;
+    display: inline-block;
+    background-color: #ff7878;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button-like:hover {
+    background-color: #bf5858;
+}
